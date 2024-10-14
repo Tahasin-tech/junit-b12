@@ -7,7 +7,7 @@ The project aims to automate two web forms using Selenium and JUnit. The primary
 - Selenium 
 - Junit
 
-##Test Reports:
+## Test Reports:
 
 ![Screenshot (84)](https://github.com/user-attachments/assets/f76dde21-1533-48b6-b931-b5a6971514bf)
 
